@@ -1,1 +1,1 @@
-wget https://github.com/kingyaking/vm/blob/main/cfpr.sh -O cfpr.sh && bash cfpr.sh
+wget https://raw.githubusercontent.com/kingyaking/vm/main/suoha.sh && bash suoha.sh
